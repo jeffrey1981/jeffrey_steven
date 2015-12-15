@@ -56,7 +56,7 @@ body {
 /*contact and more about Jeffrey information and styling*/
 
 #section3 {
-  /*background-image: url('../assets/Images/selfie3.png');*/
+  background-image: url('../assets/Images/selfie3.png');
   background-repeat: no-repeat;
   background-size: cover;
   height: 546px;
